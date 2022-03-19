@@ -3,3 +3,4 @@
 # @file:git_test.py
 
 print("hello python")
+print("new day")
